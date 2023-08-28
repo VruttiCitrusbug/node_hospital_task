@@ -1,0 +1,6 @@
+npm i express
+npm i mongoose
+npm i validator
+npm i env-cmd
+npm i bcryptjs
+npm i jsonwebtoken
